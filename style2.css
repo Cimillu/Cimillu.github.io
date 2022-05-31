@@ -1,0 +1,49 @@
+footer{
+    background: #000;
+    height: auto;
+    width: 100vw;
+    font-family: sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #fff;
+    text-align: center;
+    
+
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cardWithHover{
+    background-color: white !important;
+    color: #000 !important;
+}
+
+.cardWithHover :hover{
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.cardWithHover2{
+    background-color: white !important;
+    color: #000 !important;
+}
+
+.cardWithHover2 :hover{
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.cardWithHover3{
+    background-color: white !important;
+    color: #000 !important;
+}
+
+.cardWithHover3 :hover{
+    background-color: #000 !important;
+    color: #fff !important;
+}
